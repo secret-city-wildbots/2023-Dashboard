@@ -291,22 +291,23 @@
 				<Property Name="Bld_buildSpecName" Type="Str">Executable</Property>
 				<Property Name="Bld_excludeLibraryItems" Type="Bool">true</Property>
 				<Property Name="Bld_excludePolymorphicVIs" Type="Bool">true</Property>
-				<Property Name="Bld_localDestDir" Type="Path">../freezing</Property>
-				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
+				<Property Name="Bld_localDestDir" Type="Path">/C/Git Checkouts/Dashboard Builds</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">17</Property>
+				<Property Name="Bld_version.build" Type="Int">18</Property>
 				<Property Name="Bld_version.major" Type="Int">17</Property>
 				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Secret City Dashboard.exe</Property>
-				<Property Name="Destination[0].path" Type="Path">../freezing/Secret City Dashboard.exe</Property>
+				<Property Name="Destination[0].path" Type="Path">/C/Git Checkouts/Dashboard Builds/Secret City Dashboard.exe</Property>
+				<Property Name="Destination[0].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="Destination[0].preserveHierarchy" Type="Bool">true</Property>
 				<Property Name="Destination[0].type" Type="Str">App</Property>
 				<Property Name="Destination[1].destName" Type="Str">Support Directory</Property>
-				<Property Name="Destination[1].path" Type="Path">../freezing/data</Property>
+				<Property Name="Destination[1].path" Type="Path">/C/Git Checkouts/Dashboard Builds/data</Property>
+				<Property Name="Destination[1].path.type" Type="Str">&lt;none&gt;</Property>
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="Exe_iconItemID" Type="Ref">/My Computer/Support/App EXE.ico</Property>
-				<Property Name="Source[0].itemID" Type="Str">{82B33CE1-0BE5-4D59-817E-68479F6D5A49}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{FB264E12-8E58-422B-A3FD-CFBB5825860D}</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
 				<Property Name="Source[1].itemID" Type="Ref">/My Computer/Dashboard Main.vi</Property>
