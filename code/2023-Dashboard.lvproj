@@ -19,6 +19,7 @@
 			<Item Name="Panel Resized.vi" Type="VI" URL="../Panel Resized.vi"/>
 			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../Adjust Dashboard Window.vi"/>
 			<Item Name="InitChecklistCustom.vi" Type="VI" URL="../InitChecklistCustom.vi"/>
+			<Item Name="SwerveModuleReadData.vi" Type="VI" URL="../SwerveModuleReadData.vi"/>
 		</Item>
 		<Item Name="support files" Type="Folder" URL="../../support files">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
@@ -32,7 +33,6 @@
 			<Item Name="ReducedBWSendToNT.vim" Type="VI" URL="../ReducedBWSendToNT.vim"/>
 			<Item Name="TriggerUpdate.vim" Type="VI" URL="../TriggerUpdate.vim"/>
 			<Item Name="StateSelection.vi" Type="VI" URL="../StateSelection.vi"/>
-			<Item Name="SwerveModuleReadData.vi" Type="VI" URL="../SwerveModuleReadData.vi"/>
 		</Item>
 		<Item Name="Rendering" Type="Folder">
 			<Item Name="RenderJoystickDiagram.vi" Type="VI" URL="../RenderJoystickDiagram.vi"/>
@@ -42,6 +42,9 @@
 		<Item Name="Karen" Type="Folder">
 			<Item Name="ErrorMessageBuilder.vi" Type="VI" URL="../ErrorMessageBuilder.vi"/>
 			<Item Name="TextToSpeech.vi" Type="VI" URL="../TextToSpeech.vi"/>
+		</Item>
+		<Item Name="documentation" Type="Folder" URL="../../documentation">
+			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
@@ -292,7 +295,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">7</Property>
+				<Property Name="Bld_version.build" Type="Int">17</Property>
 				<Property Name="Bld_version.major" Type="Int">17</Property>
 				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Secret City Dashboard.exe</Property>

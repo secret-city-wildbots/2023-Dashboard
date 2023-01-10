@@ -1,0 +1,2 @@
+WPI Lib
+ -the defaults for "NT Read Boolean Array" are fixed at TRUE for elements > 0
