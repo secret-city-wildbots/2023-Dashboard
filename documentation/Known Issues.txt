@@ -1,0 +1,6 @@
+-- new features --
+> field map and robot coordinate flipping
+> auto-populating the manual start values
+
+-- National Instruments --
+> values wired to the default terminal of "NT Get Boolean Array.vi" are not honored
