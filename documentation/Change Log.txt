@@ -1,3 +1,6 @@
+v***
+> Adding 3D arm visualization.
+
 v0.3
 > General cleanup of the user interface.
 > The suggested autonomous starting location is automatically inserted into the Push Robot Pose fields.
