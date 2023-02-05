@@ -1,4 +1,0 @@
--- new features --
-
--- National Instruments --
-> values wired to the default terminal of "NT Get Boolean Array.vi" are not honored

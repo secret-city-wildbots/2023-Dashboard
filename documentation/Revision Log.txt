@@ -1,4 +1,13 @@
+-- Known Issues --
+> Values wired to the default terminal of "NT Get Boolean Array.vi" are not honored
+
+-- Untested Features --
+
+-- Releases --
+
 v***
+> Adding gripper indicators.
+> Adding arm controls and indicators.
 > Adding 3D arm visualization.
 
 v0.3
