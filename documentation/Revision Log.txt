@@ -6,6 +6,7 @@
 -- Releases --
 
 v***
+> Changing some of the master alarms and audio cues for clarity.
 > Adding gripper indicators.
 > Adding arm controls and indicators.
 > Adding 3D arm visualization.
