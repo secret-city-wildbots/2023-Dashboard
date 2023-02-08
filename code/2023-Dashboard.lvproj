@@ -20,6 +20,7 @@
 			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../Adjust Dashboard Window.vi"/>
 			<Item Name="InitChecklistCustom.vi" Type="VI" URL="../InitChecklistCustom.vi"/>
 			<Item Name="SwerveModuleReadData.vi" Type="VI" URL="../SwerveModuleReadData.vi"/>
+			<Item Name="GlobalDashboard.vi" Type="VI" URL="../GlobalDashboard.vi"/>
 		</Item>
 		<Item Name="support files" Type="Folder" URL="../../support files">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
@@ -350,7 +351,7 @@
 				<Property Name="Bld_localDestDir" Type="Path">/C/Git Checkouts/Dashboard Builds</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{F12754D6-B5E0-496F-B50C-3EDB6F368199}</Property>
-				<Property Name="Bld_version.build" Type="Int">56</Property>
+				<Property Name="Bld_version.build" Type="Int">57</Property>
 				<Property Name="Bld_version.major" Type="Int">17</Property>
 				<Property Name="Bld_version.patch" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Secret City Dashboard.exe</Property>

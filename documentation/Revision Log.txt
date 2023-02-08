@@ -5,11 +5,13 @@
 
 -- Releases --
 
-v***
+v0.4
+> All NT values will be re-sent every time the robot re-connects to the Dashboard.
 > Changing some of the master alarms and audio cues for clarity.
 > Adding gripper indicators.
 > Adding arm controls and indicators.
 > Adding 3D arm visualization.
+> Removes support for the "robot systems diagram."
 
 v0.3
 > General cleanup of the user interface.
