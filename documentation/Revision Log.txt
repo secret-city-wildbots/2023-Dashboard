@@ -6,6 +6,7 @@
 -- Releases --
 
 v***
+> Fixing issues related to the NT Get Boolean Array.vi bug.
 
 v0.4
 > All NT values will be re-sent every time the robot re-connects to the Dashboard.
