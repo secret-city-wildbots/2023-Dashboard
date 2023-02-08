@@ -1,0 +1,19 @@
+-- Known Issues --
+> Values wired to the default terminal of "NT Get Boolean Array.vi" are not honored
+
+-- Untested Features --
+
+-- Releases --
+
+v0.4
+> All NT values will be re-sent every time the robot re-connects to the Dashboard.
+> Changing some of the master alarms and audio cues for clarity.
+> Adding gripper indicators.
+> Adding arm controls and indicators.
+> Adding 3D arm visualization.
+> Removes support for the "robot systems diagram."
+
+v0.3
+> General cleanup of the user interface.
+> The suggested autonomous starting location is automatically inserted into the Push Robot Pose fields.
+> Updates the robot pose plot coloring and rotation behavior to work with the 2023 game and support RED vs. BLUE alliance behaviors.
