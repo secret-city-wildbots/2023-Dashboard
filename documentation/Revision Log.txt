@@ -2,6 +2,9 @@
 > Values wired to the default terminal of "NT Get Boolean Array.vi" are not honored
 
 -- Untested Features --
+> Modifies the indicators for the gripper subsystem.
+> Adding indicators for the hopper subsytem.
+> Preventing a race condition associated with the robot code connection flag.
 
 -- Releases --
 
