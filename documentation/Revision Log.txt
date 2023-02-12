@@ -3,12 +3,13 @@
 
 -- Untested Features --
 > Modifies the indicators for the gripper subsystem.
-> Adding indicators for the hopper subsytem.
-> Preventing a race condition associated with the robot code connection flag.
+> Adding indicators for the hopper subsystem.
 
 -- Releases --
 
 v***
+> Engages the safeties switch if the robot code disconnects.
+> Preventing a race condition associated with the robot code connection flag.
 > Fixing issues related to the NT Get Boolean Array.vi bug.
 
 v0.4
