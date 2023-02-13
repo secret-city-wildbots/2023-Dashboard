@@ -2,6 +2,7 @@
 > Values wired to the default terminal of "NT Get Boolean Array.vi" are not honored
 
 -- Untested Features --
+> Adding indicators for future auto-targeting capabilities.
 > Modifies the indicators for the gripper subsystem.
 > Adding indicators for the hopper subsystem.
 
