@@ -2,13 +2,13 @@
 > Values wired to the default terminal of "NT Get Boolean Array.vi" are not honored
 
 -- Untested Features --
-> Adding indicators for future auto-targeting capabilities.
-> Modifies the indicators for the gripper subsystem.
-> Adding indicators for the hopper subsystem.
 
 -- Releases --
 
 v***
+> Modifies the indicators for the gripper subsystem.
+> Adding indicators for future auto-targeting capabilities.
+> Adding indicators for the hopper subsystem.
 > Engages the safeties switch if the robot code disconnects.
 > Preventing a race condition associated with the robot code connection flag.
 > Fixing issues related to the NT Get Boolean Array.vi bug.
