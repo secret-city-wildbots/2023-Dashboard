@@ -5,7 +5,9 @@
 
 -- Releases --
 
-v***
+v0.5
+> Adds an auto-targeting override switch.
+> Enables the targeting reticules.
 > Modifies the indicators for the gripper subsystem.
 > Adding indicators for future auto-targeting capabilities.
 > Adding indicators for the hopper subsystem.
