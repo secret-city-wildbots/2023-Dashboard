@@ -5,6 +5,8 @@
 
 -- Releases --
 
+v***
+
 v0.5
 > Adds an auto-targeting override switch.
 > Enables the targeting reticules.
