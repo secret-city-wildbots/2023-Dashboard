@@ -6,6 +6,7 @@
 -- Releases --
 
 v***
+> Flipping the arm base transform 180 degrees.
 
 v0.5
 > Adds an auto-targeting override switch.
