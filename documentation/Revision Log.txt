@@ -6,6 +6,9 @@
 -- Releases --
 
 v***
+> Displaying the current end effector position.
+> Adding arm alarm indicators.
+> Zooming out on the arm 3D plot.
 > Flipping the arm base transform 180 degrees.
 
 v0.5
