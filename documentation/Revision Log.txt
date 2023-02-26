@@ -5,7 +5,7 @@
 
 -- Releases --
 
-v***
+v0.6
 > Fixing a bug with auto play refresh button.
 > Displaying the current end effector position.
 > Adding arm alarm indicators.
