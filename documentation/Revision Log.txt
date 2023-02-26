@@ -6,6 +6,7 @@
 -- Releases --
 
 v***
+> Disabling the dynamic targeting overlays.
 
 v0.6
 > Fixing a bug with auto play refresh button.
