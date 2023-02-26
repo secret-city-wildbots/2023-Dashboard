@@ -1,19 +1,19 @@
 1.  Connect laptop to power and FMS
 2.  Open Driver Station and Dashboard
 3.  Open graphs and enable print statements
-4.  Check tablet and both game controllers
+4.  Check both game controllers
 5.  Check speaker volume
 6.  Check computer battery performance setting is at best performance
 
 7.  Confirm robot connection and battery voltage
 8.  Confirm no Falcon boot errors, reboot RIO if needed
 9.  Confirm full comms, reboot RIO if needed
-10. Confirm LL connection, restart code if needed
 
-11. Set auto play and push robot pose
-12. Confirm driver profile
-13. Set auto delay
+10. Set auto play and push robot pose
+11. Confirm driver profile
+12. Set auto delay
 
+13. Confirm arm position, re-zero if needed
 14. Confirm no master alarms
 15. Confirm all override switches are green
 16. Start OBS screen recording
