@@ -5,6 +5,11 @@
 
 -- Releases --
 
+v1.1
+> Final version run at the Arkansas Regional.
+> Adding an override for the hopper sensor.
+> Disabling the dynamic targeting overlays.
+
 v0.6
 > Fixing a bug with auto play refresh button.
 > Displaying the current end effector position.
