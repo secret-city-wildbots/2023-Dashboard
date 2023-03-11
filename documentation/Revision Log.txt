@@ -5,6 +5,15 @@
 
 -- Releases --
 
+> Adding an ALARM if the drive motors fail.
+
+
+v***
+> Displaying the swerve output loop time to the Dashboard.
+> Now sends a command to unlock the azimuth motors when calibrating.
+> Removing gripper and hopper indicators and controls.
+> Changing the default Auto-Targeting Overide setting.
+
 v1.1
 > Final version run at the Arkansas Regional.
 > Adding an override for the hopper sensor.
