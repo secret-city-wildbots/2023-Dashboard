@@ -5,10 +5,8 @@
 
 -- Releases --
 
-> Adding an ALARM if the drive motors fail.
-
-
 v***
+> Adding an ALARM if the drive motors fail.
 > Displaying the swerve output loop time to the Dashboard.
 > Now sends a command to unlock the azimuth motors when calibrating.
 > Removing gripper and hopper indicators and controls.
