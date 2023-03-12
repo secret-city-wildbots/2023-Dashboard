@@ -2,6 +2,8 @@
 > Values wired to the default terminal of "NT Get Boolean Array.vi" are not honored
 
 -- Untested Features --
+> Enabling the dynamic driver overlays.
+> Adding red/blue grid calibration controls.
 
 -- Releases --
 
