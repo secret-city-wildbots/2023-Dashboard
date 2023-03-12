@@ -2,12 +2,12 @@
 > Values wired to the default terminal of "NT Get Boolean Array.vi" are not honored
 
 -- Untested Features --
-> Enabling the dynamic driver overlays.
-> Adding red/blue grid calibration controls.
 
 -- Releases --
 
 v***
+> Adding red/blue grid calibration controls.
+> Enabling the dynamic driver overlays.
 > Adding an ALARM if the drive motors fail.
 > Displaying the swerve output loop time to the Dashboard.
 > Now sends a command to unlock the azimuth motors when calibrating.
