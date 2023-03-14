@@ -1,11 +1,12 @@
 -- Known Issues --
-> Values wired to the default terminal of "NT Get Boolean Array.vi" are not honored
 
 -- Untested Features --
 
 -- Releases --
 
 v***
+> Values wired to the default terminal of "NT Get Boolean Array.vi" are now honored.
+> Updating to FrC Game Tools v2023.2.
 > Adding red/blue grid calibration controls.
 > Enabling the dynamic driver overlays.
 > Adding an ALARM if the drive motors fail.
