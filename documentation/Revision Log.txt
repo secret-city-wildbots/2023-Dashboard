@@ -1,6 +1,11 @@
 -- Known Issues --
 
 -- Untested Features --
+> Dynamic overlays are visible when in the HOPPER state.
+> Adding gripper state indicators.
+> Adding gripper motor alarms.
+> Adding gripper sensor readouts.
+> Changing the zoom on the 3D arm graphic.
 
 -- Releases --
 
