@@ -1,11 +1,11 @@
 -- Known Issues --
 
 -- Untested Features --
-> Custom auto scoring position selector.
 
 -- Releases --
 
 v***
+> Custom auto scoring position selector.
 > Dynamic overlays are visible when in the HOPPER state.
 > Adding gripper state indicators.
 > Changing the zoom on the 3D arm graphic.
