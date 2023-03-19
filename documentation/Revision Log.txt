@@ -1,14 +1,15 @@
 -- Known Issues --
 
 -- Untested Features --
-> Dynamic overlays are visible when in the HOPPER state.
-> Adding gripper state indicators.
-> Changing the zoom on the 3D arm graphic.
-> Adding indicator for auto-targeting.
+> Custom auto scoring position selector.
 
 -- Releases --
 
 v***
+> Dynamic overlays are visible when in the HOPPER state.
+> Adding gripper state indicators.
+> Changing the zoom on the 3D arm graphic.
+> Adding indicator for auto-targeting.
 > Adding gripper motor alarms.
 > Adding gripper sensor readouts.
 > Values wired to the default terminal of "NT Get Boolean Array.vi" are now honored.
