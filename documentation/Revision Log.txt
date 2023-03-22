@@ -4,7 +4,8 @@
 
 -- Releases --
 
-v***
+v2.0
+> Updating the reticles.
 > Custom auto scoring position selector.
 > Dynamic overlays are visible when in the HOPPER state.
 > Adding gripper state indicators.
