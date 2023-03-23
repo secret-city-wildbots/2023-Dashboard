@@ -5,6 +5,7 @@
 -- Releases --
 
 v***
+> The planned auto path is now displayed on the field map.
 
 v2.0
 > Updating the reticles.
