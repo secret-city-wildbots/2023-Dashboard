@@ -4,6 +4,10 @@
 
 -- Releases --
 
+v2.2
+> Adding graphics to display the scored hybrid nodes.
+> Tweaking the dynamic overlay sizes.
+
 v2.1
 > The planned auto path is now displayed on the field map.
 
