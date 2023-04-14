@@ -5,6 +5,7 @@
 -- Releases --
 
 v***
+> Adding alarms and readouts for the the hybrid node time-of-flight sensor.
 > Adding a selector for what state the robot should enter when TeleOp begins.
 
 v2.2
