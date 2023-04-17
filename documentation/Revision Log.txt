@@ -5,6 +5,7 @@
 -- Releases --
 
 v***
+> Updating the hybrid node numbering scheme.
 
 v2.3
 > Adding alarms and readouts for the the hybrid node time-of-flight sensor.
